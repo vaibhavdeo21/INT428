@@ -87,36 +87,3 @@ To run this application locally, follow these steps:
 
 5. To access the admin panel, go to `http://localhost:8000/admin/` and log in with your superuser credentials. From the admin panel, you can manage users, categories, and view the database.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository on GitHub.
-
-2. Create a new branch for your feature or bug fix:
-
-   ```bash
-   git checkout -b feature-name
-   ```
-
-3. Make your changes and commit them:
-
-   ```bash
-   git commit -m "Add new feature"
-   ```
-
-4. Push your changes to your forked repository:
-
-   ```bash
-   git push origin feature-name
-   ```
-
-5. Create a pull request on the original repository to propose your changes.
-
-## Acknowledgments
-
-- Thanks to the Django community for creating such a powerful web framework.
-
-- The automated expense categorization and prediction features are powered by machine learning models, which were trained using various open-source libraries and datasets.
-
-Feel free to customize and enhance this expense tracker according to your needs. Happy budgeting!
